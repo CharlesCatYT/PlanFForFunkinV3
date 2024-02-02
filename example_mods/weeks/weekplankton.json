@@ -1,0 +1,66 @@
+{
+	"storyName": "plan f cant possibly fail, right?",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"plankton",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chum bucket",
+			"plankton",
+			[
+				195,
+				255,
+				40
+			]
+		],
+		[
+			"formula",
+			"angryplankton",
+			[
+				195,
+				255,
+				40
+			]
+		],
+		[
+			"plankbot",
+			"plankbot",
+			[
+				195,
+				255,
+				40
+			]
+		],
+		[
+			"all hail plankton",
+			"plankbot",
+			[
+				195,
+				255,
+				40
+			]
+		],
+		[
+			"Plankton's Luck",
+			"plankton",
+			[
+				195,
+				255,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chum Bucket"
+}

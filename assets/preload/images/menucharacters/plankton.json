@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Plankton Idle",
+	"image": "Menu_Plankton",
+	"position": [
+		70,
+		-120
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}

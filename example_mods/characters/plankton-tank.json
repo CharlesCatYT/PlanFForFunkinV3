@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "giant-ass-robot idle"
+		},
+		{
+			"offsets": [
+				0,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "giant-ass-robot singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "giant-ass-robot LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "giant-ass-robot UP"
+		},
+		{
+			"offsets": [
+				0,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "giant-ass-robot DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plankbot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "plankbot",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		156,
+		5
+	],
+	"camera_position": [
+		-360,
+		-540
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

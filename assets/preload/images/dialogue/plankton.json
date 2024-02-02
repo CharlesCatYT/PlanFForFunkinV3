@@ -1,0 +1,63 @@
+{
+	"position": [
+		70,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 0.7,
+	"image": "plankton_d",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "plankton sad",
+			"idle_name": "plankton sad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "plankton happy",
+			"idle_name": "plankton happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "plankton angry",
+			"idle_name": "plankton angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "back",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "plankton back",
+			"idle_name": "plankton back"
+		}
+	]
+}

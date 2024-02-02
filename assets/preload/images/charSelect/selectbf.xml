@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="selectbf.png"><SubTexture name=" unknown instance0000" x="0" y="0" width="344" height="620" frameX="0" frameY="0" frameWidth="344" frameHeight="620" />
+<SubTexture name="selectbf bluebfselect instance0000" x="770" y="0" width="426" height="420" frameX="0" frameY="0" frameWidth="426" frameHeight="420" />
+<SubTexture name="selectbf bluebf instance0000" x="415" y="620" width="415" height="391" frameX="0" frameY="0" frameWidth="415" frameHeight="391" />
+<SubTexture name="selectbf meanbf instance0000" x="809" y="620" width="394" height="559" frameX="0" frameY="0" frameWidth="394" frameHeight="559" />
+<SubTexture name="selectbf meanbfselect instance0000" x="451" y="1179" width="451" height="568" frameX="0" frameY="0" frameWidth="451" frameHeight="568" />
+<SubTexture name="selectbf pissbfselect instance0000" x="787" y="1179" width="336" height="458" frameX="0" frameY="0" frameWidth="336" frameHeight="458" />
+<SubTexture name="selectbf pissbf instance0000" x="386" y="1747" width="386" height="442" frameX="0" frameY="0" frameWidth="386" frameHeight="442" />
+</TextureAtlas>
